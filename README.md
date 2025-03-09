@@ -1,16 +1,13 @@
-## Hi there 👋
+Salutations.
+I am User26226267. For short, you may call me User Novax.
 
-<!--
-**User26226267/User26226267** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My hobbies include:
+-Composing Music
+-Coding
 
-Here are some ideas to get you started:
+I am currently inventing a syntax for my programming language, "Novax".
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+You can also find me listening to classical music, enjoying electronics or simply thinking.
+
+Follow for commendable code, wonderful ideas and more.
